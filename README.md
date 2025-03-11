@@ -1,11 +1,9 @@
-![Architecture](https://github.com/user-attachments/assets/de0a9efb-1755-461a-bbe1-331c15b6fcbe)
-Here’s a detailed **README.md** file for your **GitHub project**, making it professional and well-structured.  
 
 ---
 
 ## **Netflix Data Engineering & Analytics**  
 ### **End-to-End ELT Project (Extract, Load, Transform & Analyze)**
-![Project Architecture](Architecture.png)
+![Architecture](https://github.com/user-attachments/assets/de0a9efb-1755-461a-bbe1-331c15b6fcbe)
 
 ---
 
